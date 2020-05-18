@@ -2,7 +2,9 @@
 
 ## Introdução
 
-Neste documento, serão apresentado as melhores práticas para auxiliar e padronizar o desenvolvimento do projeto. Será útil para novos desenvolvedores seguirem o padrão, afim de manter um código limpo e conciso. O padrão está baseado [neste](https://medium.com/@parthibansudhaman/flutter-scalable-app-folder-structure-6f2b0bc139c4) artigo, porém adequado ao nosso projeto.
+Neste documento, serão apresentado as melhores práticas para auxiliar e padronizar o desenvolvimento do projeto. Será útil para novos desenvolvedores seguirem o padrão, afim de manter um código limpo e conciso. 
+
+O padrão está baseado [neste](https://medium.com/@parthibansudhaman/flutter-scalable-app-folder-structure-6f2b0bc139c4) artigo, porém adequando ao nosso projeto.
 
 ## 1. Estrutura
 
