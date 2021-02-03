@@ -1,6 +1,6 @@
 # Flutter Mobile Pattern
 
-### Introdução
+## Introdução
 
 Neste documento, será apresentado as melhores práticas para padronizar o desenvolvimento de aplicações mobile pra os desenvolvedores experientes bem como os que estão iniciando.
 
